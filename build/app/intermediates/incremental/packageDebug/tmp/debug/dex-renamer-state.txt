@@ -1,0 +1,4 @@
+#Tue Jun 14 23:45:08 CEST 2022
+base.0=C\:\\Users\\pruchol\\apps\\praca\\flutterbrothers\\brothers_app_gridview\\aplikacjabrother\\jkl\\brothers_app\\brothers_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
